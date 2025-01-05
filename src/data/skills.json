@@ -1,0 +1,34 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "selenium",
+    "imageSrc": "skills/Selenium.png"
+  },
+  {
+    "title": "Manual Testing",
+    "imageSrc": "skills/person.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "postman",
+    "imageSrc": "skills/postman.png"
+  },
+  {
+    "title": "postman",
+    "imageSrc": "skills/postman.png"
+  }
+]
